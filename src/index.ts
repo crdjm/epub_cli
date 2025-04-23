@@ -7,6 +7,7 @@
 
 // epub cli stores info in /Users/crdjm/Library/Application Support/epub/<epub basename>_<hash>.json
 // Get default install working again?
+// TODO
 
 import dotenv from "dotenv";
 dotenv.config();
