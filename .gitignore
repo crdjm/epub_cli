@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Except the following files and folders
+!.gitignore
+!README.txt
+!tsconfig.json
+!package.json
+!src/
+!src/index.ts
+
